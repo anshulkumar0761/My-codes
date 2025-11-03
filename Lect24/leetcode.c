@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int arr[9] = {1, 8, 6, 2, 5, 4, 8, 3, 7};
+    int arr[12] = {4,2,0,2,3,2,5};
     int maxArea = 0;
     int i = 0;
     int j = 8;
